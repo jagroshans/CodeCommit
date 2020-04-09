@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World ekna 1!</h2>
+<h2>Hello World ekna pipline test!</h2>
 </body>
 </html>
